@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
 name='multiwatermark',
-version='0.1.3',
+version='0.1.4',
 author='Matt Burns',
 author_email='mburns7211@gmail.com',
 description='Add custom watermarks to images',
